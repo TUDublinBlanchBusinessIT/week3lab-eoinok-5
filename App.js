@@ -1,6 +1,6 @@
 import {View, Text, TextInput} from 'react-native';
 import React, {useState} from 'react';
-
+//This is a new line -- a new commit
 
 export default function App(){
   const [fullname, setFullname] = useState("Eoin");
